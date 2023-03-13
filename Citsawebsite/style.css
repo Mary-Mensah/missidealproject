@@ -1,0 +1,144 @@
+body{
+	background: ;
+	margin: 0;
+	padding: 0;
+}
+header{
+	background: #f4f6fc;
+}
+.main-nav{
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	padding: 0.5rem 1rem;
+	max-width: 1100px;
+	margin: auto;
+}
+.Logo a{
+	font-weight: bold;
+}
+.main-nav a{
+	text-decoration: none;
+	color: black;
+	text-transform: capitalize;
+	border-bottom: 3px solid transparent;
+}
+.main-nav a:hover{
+	border-bottom: 3px  solid orangered;
+}
+.nav-items{
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+}
+#loginLink{
+	background: rgba(255, 69, 0, 0.2);
+	padding: 0.1rem 0.5rem;
+	border-radius: 5px;
+	color: orangered;
+}
+.main-wrapper{
+	padding: 0.5rem 0.5rem;
+	max-width: 100%;
+	margin: 25px;
+	min-height: 600px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.right-section{
+	width: 60%;
+	min-height: 600px;
+	background: greenyellow;
+	float: right;
+}
+.main-section{
+	width: 70%;
+	border: 3px solid green;
+	padding-left: 0.5rem;
+	padding-top: 0.2rem;
+}
+.top-hightlight{
+	border:1px solid red;
+	height: 200px;
+	background: red;
+
+}
+.top-image{
+	width: 35%;
+	height: 90%;
+	background: blue;
+	float: left;
+	margin-top: 9px;
+	margin-left: 5px;
+
+
+
+
+}
+.right-content{
+	width: 62%;
+	height: 90%;
+	background: purple;
+	float: left;
+	margin-top: 9px;
+	margin-left: 5px;
+}
+.new-trend{
+	height: 200px;
+	width: 100%;
+	background: yellow;
+}
+.image-box{
+	height: 190px;
+	width: 23.9%;
+	background: hotpink;
+	margin-left: 6px;
+	margin-top: 5px;
+	border-radius: 5Px;
+	float:left;
+
+}
+
+
+}
+.insert-main{
+	width: 95%;
+	height: 30%;
+	background: black;
+	margin-top: 70px;
+	padding-top: 8px;
+	margin-left: 15px;
+	padding-left: 5px;
+	border-radius: 5px;
+
+}
+.insert-image{
+	width: 35%;
+	height: 90%;
+	background: chocolate;
+	margin-top: 5px;
+	margin-right: 5px;
+	float: left;
+	margin-left: 5px;
+
+
+}
+.insert-menu{
+	width: 60%;
+	height: 90%;
+	background: green;
+	margin-top: 5px;
+	margin-right: 5px;
+	float: left;
+}
+.back-image{
+	width: 96%;
+	height: 340px;
+	background: powderblue;
+	margin-left: 15px;
+	margin-top: 5px;
+
+
+}
+

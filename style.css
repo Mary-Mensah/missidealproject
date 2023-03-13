@@ -1,0 +1,13 @@
+body{
+	background: hotpink;
+	color: white;
+}
+.heading{
+	color: blue;
+	font-size: 15px;
+}
+#content{
+	font-size: 13px;
+	color: black;
+	font-family: italic;
+}
